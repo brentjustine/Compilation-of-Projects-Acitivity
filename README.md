@@ -32,5 +32,3 @@ Despite its name, **Logistic Regression** isn't about predicting continuous valu
 
 
 Now that you've dipped your toes into the world of CSEL 302, it's time to embark on your own journey! Consider this space your personal showcase – a place to compile all your projects, experiments, and discoveries. Whether you're tinkering with datasets or building predictive models, every step you take brings you closer to mastering the art of CSEL 302.
-
-Feel free to customize this README.md with links to your projects, notes, or reflections. Your CSEL 302 journey is unique, and this space is yours to shape and explore. Happy learning, and may your algorithms always converge!

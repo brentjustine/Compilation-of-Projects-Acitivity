@@ -8,6 +8,9 @@ Welcome to this introductory guide to CSEL 302! Whether you're just starting out
 3. [Classifying with Confidence: Logistic Regression](#classifying-with-confidence-logistic-regression)
 4. [Conclusion](#conclusion)
 
+## Projects/Activity/Assessment
+1. <a href="Data Visualization Acitivity/Data Visualization Activity.ipynb">Data Visualization Acitivity</a>
+
 ## Understanding Variation: Standard Deviation and Variance
 
 **Standard Deviation** and **Variance** aren't just statistical jargon; they help us grasp the diversity and distribution of data points in a dataset. Think of them as tools that measure how much the values in your data wander from the average. Understanding this variability is key to unlocking the mysteries of CSEL 302.

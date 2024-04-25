@@ -10,6 +10,11 @@ Welcome to this introductory guide to CSEL 302! Whether you're just starting out
 
 ## Projects/Activity/Assessment
 1. <a href="Data Visualization Acitivity/Data Visualization Activity.ipynb">Data Visualization Acitivity</a>
+2. <a href="Exercise 4/2A-BARBADILLO-EXER4.ipynb">Exercise 4</a>
+3. <a href="Exercise 5/2A-BARBADILLO-EXER5.ipynb">Exercise 5</a>
+4. <a href="Exercise 6/2A-BARBADILLO-EXER6.ipynb">Exercise 6</a>
+5. <a href="Exercise 7/2A-BARBADILLO-EXER7.ipynb">Exercise 7</a>
+6. <a href="Exercise 8 (MIdterms)/2A-BARBADILLO-MIDTERM.ipynb">Exercise 8</a>
 
 ## Understanding Variation: Standard Deviation and Variance
 

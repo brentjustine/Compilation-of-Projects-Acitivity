@@ -1,6 +1,6 @@
 # Welcome to the World of CSEL 302!
 
-Welcome to this introductory guide to CSEL 302! Whether you're just starting out or looking to refresh your knowledge, this README.md file is here to guide you through some essential concepts and techniques in the exciting field of CSEL 302. 
+Welcome to this introductory guide to CSEL 302! Whether you're just starting out or looking to refresh your knowledge, this README.md file is here to guide you through some essential concepts and techniques in the exciting field of CSEL 302. <br>
 P.S Regarding to my other activities I am still finding it and once I find it I will update this GitHub link, thank you!
 
 ## Table of Contents

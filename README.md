@@ -6,7 +6,7 @@ Welcome to this introductory guide to CSEL 302! Whether you're just starting out
 1. [Understanding Variation: Standard Deviation and Variance](#understanding-variation-standard-deviation-and-variance)
 2. [Predicting Relationships: Linear Regression](#predicting-relationships-linear-regression)
 3. [Classifying with Confidence: Logistic Regression](#classifying-with-confidence-logistic-regression)
-4. [Your CSEL 302 Journey](#conclusion)
+4. [Conclusion](#conclusion)
 
 ## Understanding Variation: Standard Deviation and Variance
 
